@@ -13,7 +13,7 @@ const introdata = {
         third: "Thriving on mastering new languages in the world of ever-evolving tech.",
       },
     description: "As a full-stack developer, I blend innovation and precision to craft seamless web solutions that bring ideas to life. Explore my portfolio to witness the power of technology meeting imagination.",
-    your_img_url: "/profile2.png",
+    your_img_url: "/profile.png",
 };
 
 const dataabout = {
