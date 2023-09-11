@@ -120,7 +120,7 @@ export const ContactUs = () => {
               </div>
               <div className="mt-1">
                 <strong className="pe-3">Phone:</strong>
-                <a className="contact_info" href={`tel:+${contactConfig.YOUR_FONE}`}>
+                <a className="contact_info" href={`tel:+1${contactConfig.YOUR_FONE}`}>
                   {contactConfig.YOUR_FONE}
                 </a>  
               </div>      
