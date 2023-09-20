@@ -124,11 +124,9 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: process.env.REACT_YOUR_EMAIL,
-    YOUR_FONE: process.env.REACT_YOUR_PHONE,
+    YOUR_EMAIL: process.env.REACT_EMAIL,
+    YOUR_FONE: process.env.REACT_PHONE,
     description: "Feel free to send me a message! I will get back to you ASAP.",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: process.env.REACT_SERVICE_ID,
     YOUR_TEMPLATE_ID: process.env.REACT_TEMPLATE_ID,
     YOUR_USER_ID: process.env.REACT_USER_ID,
