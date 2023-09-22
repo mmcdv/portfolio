@@ -20,7 +20,7 @@ function _ScrollToTop(props) {
 const ScrollToTop = withRouter(_ScrollToTop);
 
 export default function App() {
-  console.log(process.env.REACT_APP_USER_ID);
+  console.log('User ID: ', process.env.REACT_APP_USER_ID);
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <div className="cursor__dot">
