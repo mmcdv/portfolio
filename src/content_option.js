@@ -1,12 +1,12 @@
-const logotext = "MAC";
+const logotext = "logo";
 
 const meta = {
-    title: "Mac Christy"
+    title: "Your name here"
 };
 
 
 const introdata = {
-    title: "Hello, I’m Mac Christy",
+    title: "Hello, I’m Mac",
     animated: {
         first: "Passionate about pixels, I bring designs to life with code.",
         second: "I build web wonders, from front-end finesse to back-end brilliance.",
@@ -95,8 +95,8 @@ const dataportfolio = [
     outcome: "Successfully integrating the RapidAPI service with HomeFinder greatly expanded the application's capabilities. Users can now access up-to-date property listings, ensuring that they have access to the latest information about available homes in their desired area. This experience honed my skills in working with external APIs, handling asynchronous operations, and providing real-time data to users. It reinforced my commitment to delivering a seamless and informative house-hunting experience through HomeFinder.",
 
     link: "#",
-    preview: "https://shopping-cart-seven-psi.vercel.app/",
-    source: "https://github.com/mmcdv/shopping-cart"
+    preview: "previewlink",
+    source: "sourcecodelink"
   },
 
   {
@@ -118,25 +118,25 @@ const dataportfolio = [
     outcome: "The implementation of a dynamic and editable shopping cart, powered by createContext, greatly enhanced the user experience. Users can now confidently add, review, and adjust their selections throughout their shopping journey. This not only improves user satisfaction but also increases the likelihood of successful conversions. This experience reinforced my problem-solving abilities, as I successfully tackled a complex challenge in web development using createContext. It also highlighted the importance of user-centered design and effective state management techniques in creating a user-friendly e-commerce platform",
 
     link: "#",
-    preview: "https://shopping-cart-seven-psi.vercel.app/",
-    source: "https://github.com/mmcdv/shopping-cart"
+    preview: "previewlink",
+    source: "sourcecodelink"
   }
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: process.env.REACT_EMAIL,
-    YOUR_FONE: process.env.REACT_PHONE,
+    YOUR_EMAIL: "your email",
+    YOUR_FONE: "your phone number",
     description: "Feel free to send me a message! I will get back to you ASAP.",
-    YOUR_SERVICE_ID: process.env.REACT_SERVICE_ID,
-    YOUR_TEMPLATE_ID: process.env.REACT_TEMPLATE_ID,
-    YOUR_USER_ID: process.env.REACT_USER_ID,
+    YOUR_SERVICE_ID: "EmailJS service id",
+    YOUR_TEMPLATE_ID: "EmailJS template id",
+    YOUR_USER_ID: "EmailJS user id",
 };
 
 const socialprofils = {
-    github: "https://github.com/mmcdv",
-    hackerrank: "https://www.hackerrank.com/mmcdev",
-    linkedin: "https://www.linkedin.com/in/matthew-christy-076466286/",
-    codecademy: "https://www.codecademy.com/users/mmchristy14/achievements",
+    github: "https://github.com",
+    hackerrank: "https://www.hackerrank.com/",
+    linkedin: "https://www.linkedin.com/in/",
+    codecademy: "https://www.codecademy.com/users/",
 };
 const technologies = [
   "Vscode",
